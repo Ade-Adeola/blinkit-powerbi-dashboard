@@ -69,7 +69,7 @@ The dashboard brings together critical metrics from sales, marketing campaigns, 
 
 - 📸 [Dashboard Screenshots Folder](./screenshots)
 - 📄 [Full Case Report (Medium)](https://your-medium-link.com)
-- 📁 [Power BI File (.pbix)](./blinki_powerbi.pbix)
+- 📁 [Power BI File (.pbix)](./blinkit_powerbi.pbix)
 
 ---
 
@@ -85,8 +85,8 @@ The dashboard brings together critical metrics from sales, marketing campaigns, 
 ## 📬 Contact
 
 **Created by:** Aderibigbe Adeola 
-**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/aderibigbe-adeola)  
-**Twitter:** [@yourhandle](https://twitter.com/its_Just_Ade)
+**LinkedIn:** [linkedin.com/in/aderibigbe-adeola](https://linkedin.com/in/aderibigbe-adeola)  
+**Twitter:** [@its_Just_Ade](https://twitter.com/its_Just_Ade)
 
 ---
 
