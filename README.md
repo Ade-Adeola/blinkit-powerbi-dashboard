@@ -69,7 +69,7 @@ The dashboard brings together critical metrics from sales, marketing campaigns, 
 
 - 📸 [Dashboard Screenshots Folder](./Screenshots)
 - 📄 [Full Case Report (Medium)](https://your-medium-link.com)
-- 📁 [Power BI File (.pbix)](./blinkit_powerbi.pbix)
+- 📁 [Power BI File (.pbix)](https://drive.google.com/file/d/19oWRPp5gRVa2QsApyjoHOw_K0Ae65M5V/view?usp=drive_link)
 
 ---
 
