@@ -68,7 +68,7 @@ The dashboard brings together critical metrics from sales, marketing campaigns, 
 ## 🔗 Demo & Assets
 
 - 📸 [Dashboard Screenshots Folder](./Screenshots)
-- 📄 [Full Case Report (Medium)](https://your-medium-link.com)
+- 📄 [Full Case Report (Medium)](https://medium.com/@adeolaaderibigbe10)
 - 📁 [Power BI File (.pbix)](https://drive.google.com/file/d/19oWRPp5gRVa2QsApyjoHOw_K0Ae65M5V/view?usp=drive_link)
 
 ---
